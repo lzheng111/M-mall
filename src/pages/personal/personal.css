@@ -1,0 +1,16 @@
+.personal-layout{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.header-layout{  
+  flex: 1;
+  height: 100%;
+}
+
+.main-layout{
+  flex: 2;
+  height: 100%;
+  margin-bottom: 100px;
+}

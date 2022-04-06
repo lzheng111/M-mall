@@ -1,0 +1,32 @@
+<ul class="main">
+  <li class="main-item">
+    <a href="###" class="main-link">
+      <span>我的行程计划</span>
+      <span class="iconfont icon-youjiantou"></span>
+    </a>
+  </li>
+  <li class="main-item">
+    <a href="###"class="main-link">
+      <span>我的收藏</span>
+      <span class="iconfont icon-youjiantou"></span>
+    </a>
+  </li>
+  <li class="main-item">
+    <a href="###"class="main-link">
+      <span>售后客服</span>
+      <span class="iconfont icon-youjiantou"></span>
+    </a>
+  </li>
+  <li class="main-item">
+    <a href="###"class="main-link">
+      <span>我的优惠价</span>
+      <span class="iconfont icon-youjiantou"></span>
+    </a>
+  </li>
+  <li class="main-item">
+    <a href="###"class="main-link">
+      <span>常用旅客管理</span>
+      <span class="iconfont icon-youjiantou"></span>
+    </a>
+  </li>
+</ul>

@@ -1,0 +1,63 @@
+<div class="product">
+  <h2 class="product-title">精选折扣</h2>
+  <ul class="product-list" id="product-list">
+    <!-- <li class="product-item">
+      <a href="./details.html?id=1">
+        <p class="product-pic">
+          <img src="./product01.png" alt=""class="product-img">
+        </p>
+        <p class="product-name">
+          [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票（可代订签证，
+          可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+          3799元起
+        </p>
+      </a>
+    </li>
+    <li class="product-item">
+      <a href="./details.html?id=1">
+        <p class="product-pic">
+          <img src="./product01.png" alt=""class="product-img">
+        </p>
+        <p class="product-name">
+          [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票（可代订签证，
+          可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+          3799元起
+        </p>
+      </a>
+    </li>
+    <li class="product-item">
+      <a href="./details.html?id=1">
+        <p class="product-pic">
+          <img src="./product01.png" alt=""class="product-img">
+        </p>
+        <p class="product-name">
+          [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票（可代订签证，
+          可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+          3799元起
+        </p>
+      </a>
+    </li>
+    <li class="product-item">
+      <a href="./details.html?id=1">
+        <p class="product-pic">
+          <img src="./product01.png" alt=""class="product-img">
+        </p>
+        <p class="product-name">
+          [甩尾狂欢]北京/天津直飞日本东京/大阪/冲绳/札幌/福冈4-7天往返含税机票（可代订签证，
+          可订大阪心斋桥公寓)
+        </p>
+        <p class="product-price">
+          3799元起
+        </p>
+      </a>
+    </li> -->
+    {{include './items.art'}}
+  
+  </ul>
+</div>

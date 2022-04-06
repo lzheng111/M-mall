@@ -1,0 +1,38 @@
+.index-layout{
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+  padding-bottom: 48px;
+}
+
+/* 头部 */
+.header-layout{
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 54px;
+}
+
+.header-layout .searchbox{
+  width: 89.33333333%;
+}
+
+.slider-layout,
+.nav-layout,
+.product-layout{
+  background-color: #fff;
+} 
+
+/* 轮播图 */
+.slider-layout .loading,
+.nav-layout .loading,
+.product-layout .loading{
+  padding: 60px 0;
+}
+
+.product-layout{
+  margin-top: 8px;
+}
+

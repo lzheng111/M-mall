@@ -1,0 +1,12 @@
+<div class="header">
+  <div class="header-bg">
+    <img src="./images/bbb.png" alt="" class="bg-img">
+  </div>
+  
+  <img src="./images/aaa.png" alt="" class="content-img">   
+ 
+  <div class="header-content">
+    <p>林忠恒</p>
+    <p>18320444793</p>
+  </div>
+</div>
